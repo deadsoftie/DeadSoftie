@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeadSoftie
+- 👋 Hi, I’m @deadsoftie
 - 👀 I’m interested in helping out in development of open-source projects!
 - 🌱 I’m currently learning React, Java and C++.
 - 💞️ I’m looking to collaborate on the Blender and Godot repos!
